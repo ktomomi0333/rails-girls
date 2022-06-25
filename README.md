@@ -1,3 +1,5 @@
 # README
 
-railsgirls test aaa
+railsgirls test konnnichiha
+
+
